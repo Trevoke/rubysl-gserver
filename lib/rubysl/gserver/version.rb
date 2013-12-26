@@ -1,5 +1,5 @@
 module RubySL
-  module Gserver
-    VERSION = "0.0.1"
+  module GServer
+    VERSION = "1.0.0"
   end
 end
